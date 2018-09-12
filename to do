@@ -1,1 +1,17 @@
-#paper teorico formato IEEE (29/08/18)
+#Efectos  de la contaminacion sobre las personas y aplicarlos al proyecto, posibliemente una alerta al alcanzar  niveles 
+ elevados de contaminacion
+#añadir referencias  de  la informacion  bibliografica 
+#agregar areas identificadas que generan  contaminacion en el salvador como parte del marco teorico 
+#extender mas la informacion  de los  ICA e IMECA
+
+
+
+
+
+recomendaciones 
+verificar uso de ethernet shield  o algun otro metodo para dar portabilidad al dispositivo 
+observar posibilidades  de relacionar  la contaminacion con el nivel de altitud donde fue medido 
+especificar  las normas de donde sale  ICA e IMECA
+seguir  con el enfoque de IOT  y utilizacion de GIS 
+base de datos y alojamiento 
+
